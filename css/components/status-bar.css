@@ -2,8 +2,8 @@
   display: flex; /*세로로 쌓이는 블럭을 가로로 정렬*/
   justify-content: center; /*블럭끼리 자동적으로 골고루 여백 띄우기*/
   padding: 5px 3px;
-  position: fixed;
-  top: 0;
+  /*position: fixed;*/
+  /*top: 0;*/
   width: 100%;
 }
 
