@@ -7,6 +7,7 @@
   font-weight: bold;
   font-family: "Arial Narrow Bold";
   margin-bottom: 10px;
+  margin-top: -15px;
 }
 #friends-display-link i {
   color: rgba(0, 0, 0, 0.3);
