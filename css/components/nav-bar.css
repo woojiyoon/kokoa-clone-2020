@@ -12,7 +12,8 @@
   display: flex;
   justify-content: space-between;
 }
-.nav__link {
+.nav__link,
+.screen-header__icons {
   color: #2f363e;
   position: relative;
 }
@@ -33,4 +34,9 @@
   position: absolute;
   top: -65px;
   left: 25px;
+}
+
+.dot-cog {
+  top: -60px;
+  left: 70px;
 }
